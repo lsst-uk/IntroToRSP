@@ -15,3 +15,15 @@ It is expected that most people who have expressed an interest will be within ro
 | Location | Date | Time | Serving |
 |:---------|------|------|---------|
 |U. of Nottingham|17 Jan 2024|11am-4pm|Nottingham, Birmingham, Leicester, Warwick, Keele|
+|U. of Oxford|22 Jan 2024|1pm-5pm|Oxford, Hertfordshire, OU|
+|U. of Portsmouth|24 Jan 2024|1pm-5pm|Portsmouth, Southampton, Sussex|
+|U. of Surrey|25 Jan 2024|1pm-5pm|London universities, Sussex|
+|U. of Cambridge|TBC| |Cambridge|
+|U. of Bath|21 Feb 2024|1pm-5pm|Bristol, Bath, Cardiff, Exeter|
+|Queen’s Belfast|29 Feb 2024|1pm-5pm|Belfast, Armagh|
+|Durham University|14 March 2024|1pm-5pm|Durham, Newcastle|
+|U. of Edinburgh|15 March 2024|12pm-5pm||Edinburgh, Glasgow, St. Andrews|
+|Lancaster University|20 March 2024|1pm-5pm|Lancaster, Liverpool, Manchester, UCLAN|
+
+---
+There will also be an online session held _after_ all the in-person sessions have taken place. In-person attendance is, however, strongly preferred in order to aide discussion and to feed back what more the UK community wishes from the RSP.

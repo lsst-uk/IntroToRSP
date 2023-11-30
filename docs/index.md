@@ -15,6 +15,7 @@ Many of the astrophysical insights that the LSST will provide will stem directly
 Since most LSST data analysis will not be performed locally on one’s own filesystem and data formats, users will first need to become familiar with the RSP. While the learning curve is not especially steep, there are a number of concepts that are likely to be unfamiliar to many researchers when they start accessing LSST data products. With this in mind, James Mullaney from the University of Sheffield is running a number of sessions for UK-based astronomers which will introduce the Rubin Science Platform and demonstrate some of its features.
 
 This site has been created to support the Introduction to the RSP sessions. On these pages you will find:
+* a description of what to expect from the sessions;
 * the dates and locations of the sessions;
 * the presentations and notebooks used during the sessions; and
 * other resources called upon during the sessions.

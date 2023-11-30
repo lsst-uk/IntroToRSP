@@ -27,6 +27,6 @@ It is expected that most people who have expressed an interest will be within ro
 
 ---
 
-Booked room sizes are based on the numbers of people that expressed an interest at each institute, and our expectation that most people will attend their nearest session (see the “Serving” column), but small numbers may attend other sessions. If the latter’s the case for you, please contact James (j.mullaney@sheffield.ac.uk) to make sure there will be space at your preferred session.
+Booked room sizes are based on the numbers of people that expressed an interest at each institute, and our expectation that most people will attend their nearest session (see the “Serving” column), but small numbers may attend other sessions. If the latter is the case for you, please email James at j.mullaney@sheffield.ac.uk to make sure there will be space at your preferred session.
 
 There will also be an online session held _after_ all the in-person sessions have taken place. In-person attendance is, however, strongly preferred in order to aide discussion and to feed back what more the UK community wishes from the RSP.

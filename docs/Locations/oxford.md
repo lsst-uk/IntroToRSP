@@ -1,3 +1,9 @@
+---
+layout: default
+title: Color
+parent: Locations
+---
+
 # The University of Oxford
 {: .fs-9 }
 

@@ -15,7 +15,7 @@ It is expected that most people who have expressed an interest will be within ro
 | Location | Date | Time | Serving |
 |:---------|------|------|---------|
 |U. of Nottingham|17 Jan 2024|11am-4pm|Nottingham, Birmingham, Leicester, Warwick, Keele|
-|[U. of Oxford](./oxford.md)|22 Jan 2024|1pm-5pm|Oxford, Hertfordshire, OU|
+|[U. of Oxford](https:lsst-uk.github.io/IntroToRSP/oxford.md)|22 Jan 2024|1pm-5pm|Oxford, Hertfordshire, OU|
 |U. of Portsmouth|24 Jan 2024|1pm-5pm|Portsmouth, Southampton, Sussex|
 |U. of Surrey|25 Jan 2024|1pm-5pm|London universities, Sussex|
 |U. of Cambridge|TBC| |Cambridge|

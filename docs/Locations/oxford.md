@@ -7,7 +7,7 @@ parent: Locations
 # The University of Oxford
 {: .fs-9 }
 
-Serving The University of Oxford, The Open University, The University of Hertfordshire
+Serving The Universities of Oxford, Hertfordshire, and The Open University
 {: .fs-6 .fw-300 }
 ---
 

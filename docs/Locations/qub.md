@@ -4,7 +4,7 @@ title: QUB
 parent: Locations
 ---
 
-# University name
+# Queen's University Belfast
 {: .fs-9 }
 
 Serving XXX
@@ -12,10 +12,10 @@ Serving XXX
 ---
 
 ## Date:
-XXth Month 2024
+29th February 2024
 
 ## Building Address:
-_TBC_
+Main Physics Building, University Rd, Belfast BT7 1NN
 
 ## Room:
-_TBC_
+Ruth Lynden-Bell Seminar Room and Sheila O'Brien Boardroom

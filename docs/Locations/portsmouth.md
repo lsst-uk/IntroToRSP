@@ -4,10 +4,10 @@ title: Portsmouth
 parent: Locations
 ---
 
-# University name
+# The University of Portsmouth
 {: .fs-9 }
 
-Serving XXX
+Serving The Universities of Portsmouth, Southampton, and Sussex.
 {: .fs-6 .fw-300 }
 ---
 

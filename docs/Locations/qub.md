@@ -7,7 +7,7 @@ parent: Locations
 # Queen's University Belfast
 {: .fs-9 }
 
-Serving XXX
+Serving QUB and Armagh Observatory
 {: .fs-6 .fw-300 }
 ---
 

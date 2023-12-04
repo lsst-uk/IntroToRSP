@@ -15,7 +15,7 @@ Serving The Universities of Nottingham, Birmingham, Leicester, Keele, Warwick
 17th January 2024
 
 ## Building Address:
-Main Physics Building on University Park Campus, NG7 2RD; postcode is for the campus, _not_ the specific physics building, which is number 22 on [this map](https://www.nottingham.ac.uk/sharedresources/documents/mapuniversitypark.pdf). 
+Main Physics Building on University Park Campus, [NG7 2RD](https://maps.app.goo.gl/6EKNxUqA1dTMZd4p6); postcode is for the campus, _not_ the specific physics building, which is number 22 on [this map](https://www.nottingham.ac.uk/sharedresources/documents/mapuniversitypark.pdf). 
 
 ## Room:
 C14

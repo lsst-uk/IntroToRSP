@@ -15,7 +15,7 @@ Serving The Universities of Oxford, Hertfordshire, and The Open University
 22nd January 2024
 
 ## Building Address:
-Denys Wilkinson Building, University of Oxford, Keble Rd, Oxford OX1 3RH
+Denys Wilkinson Building, University of Oxford, Keble Rd, Oxford [OX1 3RH](https://maps.app.goo.gl/A2x81PUsovzgk8gd6)
 
 ## Room:
 Fisher Room, located on Level 5

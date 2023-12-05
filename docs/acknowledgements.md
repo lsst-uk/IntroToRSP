@@ -14,4 +14,4 @@ Vera C. Rubin Observatory is a Federal project jointly funded by the National Sc
 
 We also thank all of the departmental liaisons who helped with organising each session: Simon Dye, Stephen Smartt, Cigdem Arnison, Tessa Baker, Michelle Collins, Vasily Belokurov, Carolin Villforth, Meg Schwamb, Alastair Edge, Bob Mann, Andy Lawrence, John Stott, Julie Wardlow.
 
-Special thanks also goes to George Beckett and Terry Sloan.
+Special thanks also goes to George Beckett, Martin Dyer, Terry Sloan, and Tom Wilson.

@@ -23,6 +23,7 @@ We also thank all of the departmental liaisons who helped with organising each s
 * Meg Schwamb;
 * Alastair Edge;
 * Bob Mann;
+* Andy Lawrence;
 * John Stott;
 * Julie Wardlow.
 

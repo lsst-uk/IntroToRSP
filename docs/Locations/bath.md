@@ -7,7 +7,7 @@ parent: Locations
 # The University of Bath
 {: .fs-9 }
 
-Serving Bath, Bristol, Cardiff, Exeter
+Serving The Universities of Bath, Bristol, Cardiff, Exeter
 {: .fs-6 .fw-300 }
 ---
 

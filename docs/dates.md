@@ -19,7 +19,7 @@ It is expected that most people who have expressed an interest will be within ro
 |[U. of Portsmouth](./Locations/portsmouth.html)|24 Jan 2024|1pm-5pm|Portsmouth, Southampton, Sussex|
 |U. of Surrey|25 Jan 2024|1pm-5pm|London universities, Sussex|
 |[U. of Cambridge](./Locations/cambridge.html)|26 Jan 2024|1pm-5pm|Cambridge|
-|U. of Bath|21 Feb 2024|1pm-5pm|Bristol, Bath, Cardiff, Exeter|
+|[U. of Bath](./Locations/bath.html)|21 Feb 2024|1pm-5pm|Bristol, Bath, Cardiff, Exeter|
 |[Queen’s Belfast](./Locations/qub.html)|29 Feb 2024|1pm-5pm|Belfast, Armagh|
 |Durham University|14 March 2024|1pm-5pm|Durham, Newcastle|
 |U. of Edinburgh|15 March 2024|12pm-5pm|Edinburgh, Glasgow, St. Andrews|

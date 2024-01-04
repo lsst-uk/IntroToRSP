@@ -15,7 +15,7 @@ Serving The Universities of Bath, Bristol, Cardiff, Exeter
 21st February 2024
 
 ## Building Address:
-8 West (The Physics Department). Postcode: BA2 7AY (Note: Postcode is to campus, not to the specific building)  [Link to Google Maps](https://maps.app.goo.gl/JbFK795hdW2RQYJa7). what3words of bulding entrace: [props.foster.divide](https://what3words.com/props.foster.divide)
+8 West (The Physics Department). Postcode: BA2 7AY (Note: Postcode is to campus, not to the specific building)  [Link to Google Maps](https://maps.app.goo.gl/JbFK795hdW2RQYJa7). what3words of building entrance: [props.foster.divide](https://what3words.com/props.foster.divide)
 
 ## Room:
 8W2.30

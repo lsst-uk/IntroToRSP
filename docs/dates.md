@@ -1,7 +1,7 @@
 ---
 title: Tour Dates
 layout: default
-nav_order: 3
+nav_order: 4
 ---
 
 # Tour Dates and Locations

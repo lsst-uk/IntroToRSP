@@ -23,4 +23,4 @@ Further, while not explicitly used during the sessions, an additional notebook i
 
 Finally, by popular request, here is a link to a page that lists what data are available via LSST's Table Access Protocol service (aka schemas). 
 
-* LSST's TAP Schema Browser: ['Link'](https://dm.lsst.org/sdm_schemas/browser/) 
+* LSST's TAP Schema Browser: [Link](https://dm.lsst.org/sdm_schemas/browser/) 

@@ -18,4 +18,4 @@ Serving The University of Cambridge
 The Institute of Astronomy (IoA), University of Cambridge, Madingley Road, Cambridge, CB3 0HA
 
 ## Room:
-SPO Meeting Room. Please [see this internmal map of the IoA](https://www-new.ast.cam.ac.uk/about/how-find-us/map-ioa).
+SPO Meeting Room. Please [see this internal map of the IoA](https://www-new.ast.cam.ac.uk/about/how-find-us/map-ioa).

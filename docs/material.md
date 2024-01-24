@@ -21,6 +21,11 @@ Further, while not explicitly used during the sessions, an additional notebook i
 
 * Key dataset types: [Jupyter Notebook](https://github.com/lsst-uk/rsp-uk-notebooks/blob/main/Intro_to_RSP/KeyDatasets.ipynb)
 
-Finally, by popular request, here is a link to a page that lists what data are available via LSST's Table Access Protocol service (aka schemas). 
+By popular request, here is a link to a page that lists what data are available via LSST's Table Access Protocol service (aka schemas). 
 
-* LSST's TAP Schema Browser: [Link](https://dm.lsst.org/sdm_schemas/browser/) 
+* LSST's TAP Schema Browser: [Link](https://dm.lsst.org/sdm_schemas/browser/)
+
+And here are links to the online documentation for the Astronomy Database Query Language (ADQL) and the Table Access Protocol (TAP):
+
+* ADQL Online Documentation: [Link](https://www.ivoa.net/documents/ADQL/20180112/PR-ADQL-2.1-20180112.html)
+* TAP Online Documentation: [Link](https://www.ivoa.net/documents/TAP/20190927/REC-TAP-1.1.html)

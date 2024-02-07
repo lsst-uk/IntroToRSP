@@ -26,6 +26,7 @@ It is expected that most people who have expressed an interest will be within ro
 |Lancaster University|20 March 2024|1pm-5pm|Lancaster, Liverpool, Manchester, UCLAN|
 
 ---
+Note that the above finish times are approximate and allow for questions. All material will have been presented by 4.45pm at the latest.
 
 Booked room sizes are based on the numbers of people that expressed an interest at each institute, and our expectation that most people will attend their nearest session (see the “Serving” column), but small numbers may attend other sessions. If the latter is the case for you, please email James at j.mullaney@sheffield.ac.uk to make sure there will be space at your preferred session.
 

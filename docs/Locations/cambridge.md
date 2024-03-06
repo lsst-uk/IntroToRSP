@@ -15,7 +15,7 @@ Serving The University of Cambridge
 26th January 2024
 
 ## Building Address:
-_TBC_
+The Institute of Astronomy (IoA), University of Cambridge, Madingley Road, Cambridge, CB3 0HA
 
 ## Room:
-_TBC_
+SPO Meeting Room. Please [see this internal map of the IoA](https://www-new.ast.cam.ac.uk/about/how-find-us/map-ioa).

@@ -8,7 +8,7 @@ nav_order: 2
 
 ---
 
-Each session will consist of three hour-long lectures, separated by breaks. A small amount of time will be dedicated to giving a brief introduction to the the Vera C. Rubin project, the LSST, key RSP concepts and terminology, data rights, and getting involved in the project. The remainder of the time will be spent giving demonstrations of potential use cases. These will involve going through Python code – typically in the form of Jupyter Notebooks – which demonstrate possible use cases. The aims of the sessions are to:
+Each session will consist of [four parts](./material.html) separated by breaks. Each part lasts roughly 50 minutes. The first part is dedicated to giving a brief introduction to the the Vera C. Rubin project, the LSST, key RSP concepts and terminology, data rights, and getting involved in the project. The following three parts focus on demonstrating potential use cases. These will involve going through Python code in the form of Jupyter Notebooks. The aims of the sessions are to:
 * familiarise people with the RSP environment;
 * introduce key concepts within the RSP;
 * demonstrate how to find out what data is held within the RSP;

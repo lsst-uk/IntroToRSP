@@ -7,7 +7,7 @@
 # The University of Edinburgh
 {: .fs-9 }
 
-Serving Edinburgh, Glasgow, St. Andrews
+Serving The Universities of Edinburgh, Glasgow, and St. Andrews
 {: .fs-6 .fw-300 }
 ---
 

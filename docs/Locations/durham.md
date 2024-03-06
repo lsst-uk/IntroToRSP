@@ -7,7 +7,7 @@ parent: Locations
 # Durham University
 {: .fs-9 }
 
-Serving Durham, Newcastle
+Serving Durham University and Newcastle University
 {: .fs-6 .fw-300 }
 ---
 

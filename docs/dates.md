@@ -22,7 +22,7 @@ It is expected that most people who have expressed an interest will be within ro
 |[U. of Bath](./Locations/bath.html)|21 Feb 2024|1pm-5pm|Bristol, Bath, Cardiff, Exeter|
 |[Queen’s Belfast](./Locations/qub.html)|29 Feb 2024|1pm-5pm|Belfast, Armagh|
 |[Durham University](./Locations/durham.html)|14 March 2024|1pm-5pm|Durham, Newcastle|
-|U. of Edinburgh|15 March 2024|12pm-5pm|Edinburgh, Glasgow, St. Andrews|
+|[U. of Edinburgh](./Locations/edinburgh.html)|15 March 2024|12pm-5pm|Edinburgh, Glasgow, St. Andrews|
 |Lancaster University|20 March 2024|1pm-5pm|Lancaster, Liverpool, Manchester, UCLAN|
 
 ---

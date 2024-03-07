@@ -1,7 +1,7 @@
 ---
-#layout: default
-#title: XXX
-#parent: Locations
+layout: default
+title: Edinburgh
+parent: Locations
 ---
 
 # The University of Edinburgh

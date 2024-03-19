@@ -23,7 +23,7 @@ It is expected that most people who have expressed an interest will be within ro
 |[Queen’s Belfast](./Locations/qub.html)|29 Feb 2024|1pm-5pm|Belfast, Armagh|
 |[Durham University](./Locations/durham.html)|14 March 2024|1pm-5pm|Durham, Newcastle|
 |[U. of Edinburgh](./Locations/edinburgh.html)|15 March 2024|12pm-5pm|Edinburgh, Glasgow, St. Andrews|
-|Lancaster University|20 March 2024|1pm-5pm|Lancaster, Liverpool, Manchester, UCLAN|
+|[Lancaster University](./Locations/lancaster.html)|20 March 2024|1pm-5pm|Lancaster, Liverpool, Manchester, UCLAN|
 
 ---
 Note that the above finish times are approximate and allow for questions. All material will have been presented by 4.45pm at the latest.

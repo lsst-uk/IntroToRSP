@@ -18,4 +18,4 @@ Serving Lancaster, Liverpool, Manchester, Preston (UCLAN)
 Physics Building of Lancaster University, LA1 4YB
 
 ## Room:
-C36 - Level C is 2 levels up, one enters the building on A floor.
+C36 - Level C is two levels up, one enters the building on A floor.
